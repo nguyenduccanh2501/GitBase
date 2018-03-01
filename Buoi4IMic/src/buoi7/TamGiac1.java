@@ -24,7 +24,7 @@ public class TamGiac1 {
 				float x1 = (float) ((-b - Math.sqrt(delta)) / (2 * a));
 				float x2 = (float) ((-b + Math.sqrt(delta)) / (2 * a));
 				System.out.println("Pt có 2 nghiệm x1= " + x1 + " và x2= " + x2);
-
+				System.out.println(":)))");
 			}
 		}
 	}
